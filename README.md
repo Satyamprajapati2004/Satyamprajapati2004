@@ -15,14 +15,14 @@ I am a **Data Analytics & Machine Learning Engineer** passionate about building 
 - **Tools:** Git, Jupyter Notebooks
 
   GitHub Stats:
-![Satyam's GitHub ] ()
+![Satyam's GitHub ] (https://github.com/Satyamprajapati2004)
 
 ### 📫 How to reach me:
 - 📧 Email: sp04122020@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/satyam-prajapati-82a51629b/]
 
 <!--
-**saaa637/saaa637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
