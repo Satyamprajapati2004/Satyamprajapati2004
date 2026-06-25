@@ -1,18 +1,20 @@
 
 # Hi there, I'm Satyam Prajapati 👋 
 
-I am a **Data Analytics & Machine Learning Engineer** passionate about building scalable and accurate predictive models. I love turning raw data into meaningful insights.
+About Me
 
-### 🚀 What I do:
-- **Machine Learning:** Building predictive models using CNN, RNN, and Scikit-learn.
-- **Data Engineering:** Designing efficient ETL pipelines for large datasets.
-- **Web Integration:** Deploying ML models using Django .
+📊 Data Analyst & Data Science Enthusiast
 
-### 🛠 Tech Stack:
-- **Languages:** Python, SQL
-- **Frameworks:** Django, TensorFlow,  PyTorch
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Tools:** Git, Jupyter Notebooks
+Passionate about leveraging data to uncover insights, solve complex problems, and support data-driven decision-making. Skilled in data analysis, visualization, and statistical techniques, with hands-on experience in Python, SQL, Excel, and Power BI.
+
+Experienced in working with data to identify trends, build interactive dashboards, perform exploratory data analysis (EDA), and generate actionable insights. Continuously expanding my knowledge of Data Science, Machine Learning, and Business Intelligence through practical projects and continuous learning.
+
+💡 Strong interest in Data Analytics, Business Intelligence, Data Science, and Machine Learning, with a focus on transforming raw data into meaningful business value.
+
+Technical Skills:
+Python • SQL • Excel • Power BI • Pandas • NumPy • Data Visualization • Statistics • Exploratory Data Analysis (EDA)
+
+🚀 Open to collaborating on data-driven projects and contributing to innovative solutions in Analytics and Data Science.
 
   GitHub Stats:
 ![Satyam's GitHub ] (https://github.com/Satyamprajapati2004)
