@@ -1,293 +1,227 @@
-Hi, I'm a Satyam Prajapati Data & AI Enthusiast
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Business+Intelligence+%7C+AI+Engineering;Turning+Data+into+Insights+and+Intelligent+Solutions" alt="Typing SVG"> </p> <p align="center"> <b> Data Analytics •  Data Science •  AI Engineering •  Business Intelligence</b> </p>
-About Me
+# 👋 Hi, I'm **SATYAM PRAJAPATI**
 
-I’m a passionate Data Analyst and Data Science enthusiast with a growing interest in Artificial Intelligence and AI Engineering.
+<h2 align="center">🚀 Data Analyst | Data Scientist | AI Engineer | Business Intelligence Enthusiast</h2>
 
-I enjoy transforming raw and complex datasets into meaningful insights, interactive dashboards, analytical solutions, and intelligent applications.
-
-My approach combines data analysis, statistics, programming, visualization, machine learning, and business intelligence to understand problems and build practical, data-driven solutions.
-
-I work with technologies including Python, SQL, Excel, Power BI, Pandas, NumPy, Scikit-Learn, Streamlit, Django, Git, and GitHub, while continuously expanding my knowledge in Machine Learning, AI, and modern data technologies.
-
-My focus: Turning raw data → insights → decisions → intelligent solutions.
-
- What I Do
- Analyze datasets to discover patterns, trends, and actionable insights
- Use Python for data analysis, automation, preprocessing, and experimentation
- Write SQL queries for data extraction, transformation, aggregation, and analysis
- Build interactive Power BI dashboards and business intelligence reports
- Use Microsoft Excel for analysis, reporting, and data validation
- Perform Exploratory Data Analysis (EDA) to understand datasets
- Clean, transform, and preprocess raw data
- Apply statistical techniques to support analytical conclusions
- Explore Machine Learning algorithms and predictive modeling
- Learn and experiment with Artificial Intelligence and AI Engineering
- Build interactive data applications using Streamlit
- Develop web-based data solutions using Django
- Create visualizations that communicate complex information clearly
- Translate analytical findings into practical business insights
- Tech Stack
- Programming & Data Analysis
-
-
-
-
-
-
- Database & Querying
-
-
-
-
-
-
- Business Intelligence & Visualization
-
-
-
-
-
-
-
-
- Machine Learning & AI
-
-
-
-
-
-
- Application Development
-
-
-
-
-
-
-
- Development & Version Control
-
-
-
-
-
- Data Analytics Skills
-Data Preparation
-Data Cleaning
-Data Preprocessing
-Data Transformation
-Missing-Value Handling
-Data Validation
-Feature Preparation
-Exploratory Data Analysis
-Univariate Analysis
-Bivariate Analysis
-Multivariate Analysis
-Pattern Detection
-Trend Analysis
-Outlier Analysis
-Correlation Analysis
-Statistics
-Descriptive Statistics
-Probability Fundamentals
-Measures of Central Tendency
-Measures of Dispersion
-Correlation
-Statistical Interpretation
-Hypothesis Testing Fundamentals
- Data Science & Machine Learning
-
-I’m building practical knowledge across the Machine Learning lifecycle:
-
-Problem Definition
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-Feature Engineering
-       ↓
-Model Development
-       ↓
-Model Evaluation
-       ↓
-Optimization
-       ↓
-Deployment
-       ↓
-Monitoring & Improvement
-
-Areas of Interest
-Supervised Learning
-Classification
-Regression
-Clustering
-Feature Engineering
-Model Evaluation
-Cross-Validation
-Hyperparameter Optimization
-Predictive Analytics
-Model Deployment
- AI Engineering
-
-I’m also exploring the practical side of AI Engineering, with an interest in building applications around modern AI models.
-
-Areas I'm Exploring
-Generative AI
-Large Language Models
-AI Application Development
-Prompt Engineering
-Retrieval-Augmented Generation (RAG)
-Embeddings & Vector Search
-AI APIs
-Model Integration
-AI-powered Data Applications
-Intelligent Automation
-
-My goal is to move beyond simply analyzing data and learn how to build intelligent applications that use data and AI together.
-
- Business Intelligence
-
-I enjoy converting analytical results into dashboards and reports that are easy for non-technical users to understand.
-
-BI Skills
-Power BI
-DAX
-Power Query
-Data Modeling
-KPI Development
-Interactive Dashboards
-Business Reporting
-Data Storytelling
-Performance Analysis
-Trend Analysis
- Development Workflow
-
-My typical approach to a data project is:
-
- Business Problem
-        ↓
- Data Collection
-        ↓
- Data Cleaning
-        ↓
- Exploratory Analysis
-        ↓
- Visualization
-        ↓
- Statistical / ML Analysis
-        ↓
- Insights
-        ↓
- Dashboard / Application
-        ↓
- Deployment
-
- Currently Learning
-
-I believe continuous learning is essential in the rapidly evolving data and AI ecosystem.
-
-Currently focusing on:
-
- Machine Learning
- Artificial Intelligence
- Deep Learning Fundamentals
- Generative AI
- Large Language Models
- RAG & Vector Databases
- Advanced Data Analytics
- Advanced Power BI & DAX
- Advanced SQL
- Advanced Python for Data Science
- Statistical Modeling
- Cloud & Modern Data Technologies
- AI Application Development
- My Approach
-
-I like to take a problem through the complete analytical lifecycle:
-
-Raw Data → Clean Data → Exploration → Analysis → Modeling → Visualization → Insights → Solution
-
-I believe a successful data professional should not only know how to write code or create dashboards, but also understand:
-
-What problem are we solving? What does the data tell us? And how can the result create measurable value?
-
- Projects & Areas of Interest
-
-I’m interested in building projects across:
-
- Data Analytics
- Business Intelligence
- Python Data Analysis
- SQL Analytics
- Machine Learning
- Artificial Intelligence
- Generative AI
- Power BI Dashboards
- Data Applications
- Predictive Analytics
- Data Automation
- Career Goals
-
-My goal is to grow into a versatile Data & AI Professional capable of working across analytics, business intelligence, machine learning, and AI-powered applications.
-
-I’m particularly interested in opportunities involving:
-
-Data Analytics • Business Intelligence • Data Science • Machine Learning • AI Engineering • Data Visualization
-
-I want to continuously build practical projects, solve real-world problems, collaborate with other developers and data professionals, and keep learning modern technologies.
-
- Let's Collaborate
-
-I’m open to collaborating on:
-
- Data Analytics Projects
- SQL Projects
- Python Data Projects
- Power BI Dashboards
- Machine Learning Projects
- AI & Generative AI Projects
- Data Applications
- Data Science Research & Experiments
- Automation Projects
-
-If you’re passionate about Data, AI, Technology, and Continuous Learning, feel free to connect and build something meaningful together.
-
-📌 Core Skills
-Python          ████████████████████
-SQL             ████████████████████
-Power BI        ████████████████████
-Excel           ███████████████████░
-Pandas          ███████████████████░
-Data Analysis   ███████████████████░
-Statistics      █████████████████░░░
-Machine Learning███████████████░░░░░
-AI Engineering  █████████████░░░░░░░
-
-
-Progress is continuous — these areas represent skills I'm developing through practical projects and learning.
-
-🌟 Personal Philosophy
-
-Learn continuously. Analyze deeply. Build practically. Create impact.
-
-I believe the best way to learn technology is to build real projects, solve real problems, and continuously improve.
-
-⭐ Thanks for Visiting!
-
-Thanks for stopping by my GitHub profile! 👋
-
-If you find my projects useful or interesting, feel free to ⭐ Star a repository, explore my work, or connect with me.
-
-<p align="center"> <b>📊 Turning Data into Insights</b><br> <b>🧠 Turning Insights into Intelligence</b><br> <b>🚀 Turning Ideas into Impact</b> </p>
 <p align="center">
-
-Data Analytics • Business Intelligence • Data Science • Machine Learning • AI Engineering • Generative AI
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%7C+AI+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights+%26+Intelligent+Solutions" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a passionate **Data Analyst, Data Science enthusiast, and aspiring AI Engineer** who enjoys transforming raw data into meaningful insights, intelligent solutions, and business value.
+
+I work across the complete data lifecycle — from **data collection and cleaning to analysis, visualization, machine learning, and application development**.
+
+My primary areas of interest include:
+
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 💬 Generative AI
+- 🐍 Python Development
+- 🗄️ SQL & Database Analytics
+- 📊 Power BI & Data Visualization
+
+I enjoy solving real-world problems through **data-driven thinking, statistical analysis, machine learning, visualization, and intelligent automation**.
+
+### 🎯 My Focus
+
+> **Raw Data → Clean Data → Insights → Intelligence → Business Impact**
+
+---
+
+# 🧠 What I Do
+
+- 📊 Analyze datasets to discover patterns, trends, and actionable insights
+- 🐍 Use **Python** for data analysis, automation, preprocessing, and experimentation
+- 🗄️ Write **SQL queries** for extraction, transformation, aggregation, and business analysis
+- 📈 Build interactive **Power BI dashboards** and analytical reports
+- 📑 Use **Microsoft Excel** for data cleaning, analysis, reporting, and visualization
+- 🔍 Perform **Exploratory Data Analysis (EDA)**
+- 🧹 Clean, transform, and preprocess raw datasets
+- 📐 Apply statistical techniques for data interpretation
+- 🤖 Develop and experiment with **Machine Learning models**
+- 🧠 Explore **Artificial Intelligence and AI Engineering**
+- 💬 Explore **Generative AI and Large Language Models**
+- 🌐 Build interactive applications using **Streamlit**
+- 🖥️ Develop web applications using **Django**
+- 📊 Communicate complex analytical results through effective visualizations
+- 💡 Convert data-driven findings into practical business insights
+
+---
+
+# 🛠️ Technical Tools & Technologies
+
+## 🐍 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 Data Analysis & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+## 📈 Data Visualization & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+## 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+
+---
+
+## 🧠 Artificial Intelligence & Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### AI Areas
+
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Search
+- AI APIs
+- AI Application Development
+- Intelligent Automation
+- Model Integration
+
+---
+
+## 🗄️ Databases & Data Engineering
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🌐 Web & Application Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deployment
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 🔧 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-24292F?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 Data Analytics Skills
+
+### 🔹 Data Preparation
+
+- Data Cleaning
+- Data Preprocessing
+- Data Transformation
+- Missing Value Handling
+- Data Validation
+- Feature Preparation
+- Data Quality Checks
+
+### 🔹 Exploratory Data Analysis
+
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- Trend Analysis
+- Pattern Detection
+- Outlier Detection
+- Correlation Analysis
+- Distribution Analysis
+
+### 🔹 Statistical Analysis
+
+- Descriptive Statistics
+- Probability Fundamentals
+- Central Tendency
+- Measures of Dispersion
+- Correlation
+- Hypothesis Testing Fundamentals
+- Statistical Interpretation
+
+---
+
+# 🤖 Data Science & Machine Learning
+
+I’m continuously developing practical knowledge across the complete Machine Learning lifecycle:
+
+```text
+        💡 Problem Definition
+                ↓
+        📥 Data Collection
+                ↓
+        🧹 Data Cleaning
+                ↓
+        🔍 Exploratory Analysis
+                ↓
+        ⚙️ Feature Engineering
+                ↓
+        🤖 Model Development
+                ↓
+        📊 Model Evaluation
+                ↓
+        🎯 Optimization
+                ↓
+        🚀 Deployment
+                ↓
+        🔄 Monitoring & Improvement
+
+
+
+
 
   GitHub Stats:
 ![Satyam's GitHub ] (https://github.com/Satyamprajapati2004)
