@@ -193,6 +193,14 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 - Statistical Interpretation
 
 ---
+### 📊 GitHub Stats:
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+### 📫 How to reach me:
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+
+---
 
 # 🤖 Data Science & Machine Learning
 
@@ -223,14 +231,7 @@ I’m continuously developing practical knowledge across the complete Machine Le
 
 
 
-  GitHub Stats:
-![Satyam's GitHub ] (https://github.com/Satyamprajapati2004)
-
-### 📫 How to reach me:
-- 📧 Email: sp04122020@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/satyam-prajapati-82a51629b/]
-
-<!--
+ 
 
 
 Here are some ideas to get you started:
