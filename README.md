@@ -1,4 +1,11 @@
 #  Hi, I'm **SATYAM PRAJAPATI**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1050&height=130&lines=%3E+Data+Analyst+%7C+Data+Scientist;%3E+Business+Intelligence+%7C+AI+Engineer;%3E+Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;%3E+Transforming+Data+into+Intelligence;%3E+Building+AI-Powered+%26+Data-Driven+Solutions"
+    alt="Typing Animation"
+  />
+</p>
+
 ##  About Me
 
 I’m a passionate **Data Analyst, Data Science enthusiast, and aspiring AI Engineer** who enjoys transforming raw data into meaningful insights, intelligent solutions, and business value.
