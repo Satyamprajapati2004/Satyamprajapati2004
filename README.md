@@ -2,9 +2,267 @@
 
 <h2 align="center"> Data Analyst | Data Scientist | AI Engineer | Business Intelligence Enthusiast</h2>
 
+<!-- ===================== HERO SECTION ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%7C+AI+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights+%26+Intelligent+Solutions" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%7C+AI+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights+%26+Intelligent+Solutions;Building+Data-Driven+%26+AI-Powered+Products"
+    alt="Typing SVG"
+  />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=00BFFF" />
+</p>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  <b>Data Analyst • Data Scientist • BI Developer • AI Engineer</b>
+</p>
+
+I transform **raw data into actionable insights** and build **intelligent, data-driven solutions** using analytics, machine learning, business intelligence, and AI.
+
+- 🔍 Passionate about **Data Analytics & Business Intelligence**
+- 🐍 Building analytical solutions with **Python**
+- 🗄️ Working with **SQL & relational databases**
+- 📊 Creating interactive **Power BI dashboards**
+- 🤖 Developing **Machine Learning & AI solutions**
+- 📈 Focused on **data storytelling and decision intelligence**
+- ⚡ Always learning, experimenting, and building
+
+---
+
+## 🧠 Core Expertise
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📊 Analytics
+Python<br>
+SQL<br>
+Excel<br>
+Statistics<br>
+Data Cleaning
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈 BI
+Power BI<br>
+DAX<br>
+Power Query<br>
+Data Modeling<br>
+Dashboard Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+Machine Learning<br>
+Deep Learning<br>
+NLP<br>
+Predictive Analytics<br>
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Engineering
+ETL Pipelines<br>
+APIs<br>
+Git & GitHub<br>
+Cloud<br>
+Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+### 📊 Data Analytics & BI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=excel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+  />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Business Intelligence Dashboard
+
+🔹 Interactive Power BI Dashboard  
+🔹 Advanced DAX Analytics  
+🔹 KPI & Performance Tracking  
+🔹 Data Modeling & ETL  
+
+**Tech:** `Power BI` `SQL` `DAX` `Excel`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Machine Learning Project
+
+🔹 Predictive Analytics  
+🔹 Feature Engineering  
+🔹 Model Optimization  
+🔹 Performance Evaluation  
+
+**Tech:** `Python` `Pandas` `Scikit-Learn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 AI Application
+
+🔹 Generative AI  
+🔹 NLP  
+🔹 LLM Integration  
+🔹 Intelligent Automation  
+
+**Tech:** `Python` `LLM` `LangChain`
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Analytics Project
+
+🔹 Exploratory Data Analysis  
+🔹 Statistical Analysis  
+🔹 Data Visualization  
+🔹 Business Insights  
+
+**Tech:** `Python` `SQL` `Power BI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What I Do
+
+```text
+             RAW DATA
+                 │
+                 ▼
+        ┌─────────────────┐
+        │  Data Cleaning  │
+        │  & Preparation  │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Exploratory     │
+        │ Data Analysis   │
+        └────────┬────────┘
+                 │
+        ┌────────┴─────────┐
+        ▼                  ▼
+   📊 BI / Analytics    🤖 ML / AI
+        │                  │
+        ▼                  ▼
+   Dashboards         Predictions
+   KPIs               Automation
+   Insights           Intelligent Apps
+        │                  │
+        └────────┬─────────┘
+                 ▼
+        🚀 BUSINESS IMPACT
 
 
 ##  About Me
