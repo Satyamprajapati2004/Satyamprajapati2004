@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **SATYAM PRAJAPATI**
+#  Hi, I'm **SATYAM PRAJAPATI**
 
-<h2 align="center">🚀 Data Analyst | Data Scientist | AI Engineer | Business Intelligence Enthusiast</h2>
+<h2 align="center"> Data Analyst | Data Scientist | AI Engineer | Business Intelligence Enthusiast</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%7C+AI+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights+%26+Intelligent+Solutions" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a passionate **Data Analyst, Data Science enthusiast, and aspiring AI Engineer** who enjoys transforming raw data into meaningful insights, intelligent solutions, and business value.
 
@@ -20,46 +20,46 @@ I work across the complete data lifecycle — from **data collection and cleanin
 
 My primary areas of interest include:
 
-- 📊 Data Analytics
-- 📈 Business Intelligence
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 💬 Generative AI
-- 🐍 Python Development
-- 🗄️ SQL & Database Analytics
-- 📊 Power BI & Data Visualization
+-  Data Analytics
+-  Business Intelligence
+-  Machine Learning
+-  Artificial Intelligence
+-  Generative AI
+-  Python Development
+-  SQL & Database Analytics
+-  Power BI & Data Visualization
 
 I enjoy solving real-world problems through **data-driven thinking, statistical analysis, machine learning, visualization, and intelligent automation**.
 
-### 🎯 My Focus
+###  My Focus
 
 > **Raw Data → Clean Data → Insights → Intelligence → Business Impact**
 
 ---
 
-# 🧠 What I Do
+#  What I Do
 
-- 📊 Analyze datasets to discover patterns, trends, and actionable insights
-- 🐍 Use **Python** for data analysis, automation, preprocessing, and experimentation
-- 🗄️ Write **SQL queries** for extraction, transformation, aggregation, and business analysis
-- 📈 Build interactive **Power BI dashboards** and analytical reports
-- 📑 Use **Microsoft Excel** for data cleaning, analysis, reporting, and visualization
-- 🔍 Perform **Exploratory Data Analysis (EDA)**
-- 🧹 Clean, transform, and preprocess raw datasets
-- 📐 Apply statistical techniques for data interpretation
-- 🤖 Develop and experiment with **Machine Learning models**
-- 🧠 Explore **Artificial Intelligence and AI Engineering**
-- 💬 Explore **Generative AI and Large Language Models**
-- 🌐 Build interactive applications using **Streamlit**
-- 🖥️ Develop web applications using **Django**
-- 📊 Communicate complex analytical results through effective visualizations
-- 💡 Convert data-driven findings into practical business insights
+-  Analyze datasets to discover patterns, trends, and actionable insights
+-  Use **Python** for data analysis, automation, preprocessing, and experimentation
+-  Write **SQL queries** for extraction, transformation, aggregation, and business analysis
+-  Build interactive **Power BI dashboards** and analytical reports
+-  Use **Microsoft Excel** for data cleaning, analysis, reporting, and visualization
+-  Perform **Exploratory Data Analysis (EDA)**
+-  Clean, transform, and preprocess raw datasets
+-  Apply statistical techniques for data interpretation
+-  Develop and experiment with **Machine Learning models**
+-  Explore **Artificial Intelligence and AI Engineering**
+-  Explore **Generative AI and Large Language Models**
+-  Build interactive applications using **Streamlit**
+-  Develop web applications using **Django**
+-  Communicate complex analytical results through effective visualizations
+-  Convert data-driven findings into practical business insights
 
 ---
 
-# 🛠️ Technical Tools & Technologies
+#  Technical Tools & Technologies
 
-## 🐍 Programming Languages
+##  Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
@@ -69,7 +69,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 📊 Data Analysis & Data Science
+##  Data Analysis & Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,7 +79,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 📈 Data Visualization & Business Intelligence
+##  Data Visualization & Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -91,7 +91,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -101,7 +101,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 🧠 Artificial Intelligence & Generative AI
+##  Artificial Intelligence & Generative AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -123,7 +123,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 🗄️ Databases & Data Engineering
+##  Databases & Data Engineering
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -132,7 +132,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 🌐 Web & Application Development
+##  Web & Application Development
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -142,7 +142,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## ☁️ Cloud & Deployment
+##  Cloud & Deployment
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -150,7 +150,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-## 🔧 Development Tools
+##  Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -159,9 +159,9 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-# 📊 Data Analytics Skills
+#  Data Analytics Skills
 
-### 🔹 Data Preparation
+###  Data Preparation
 
 - Data Cleaning
 - Data Preprocessing
@@ -171,7 +171,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 - Feature Preparation
 - Data Quality Checks
 
-### 🔹 Exploratory Data Analysis
+###  Exploratory Data Analysis
 
 - Univariate Analysis
 - Bivariate Analysis
@@ -182,7 +182,7 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 - Correlation Analysis
 - Distribution Analysis
 
-### 🔹 Statistical Analysis
+###  Statistical Analysis
 
 - Descriptive Statistics
 - Probability Fundamentals
@@ -202,30 +202,30 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 
 ---
 
-# 🤖 Data Science & Machine Learning
+#  Data Science & Machine Learning
 
 I’m continuously developing practical knowledge across the complete Machine Learning lifecycle:
 
 ```text
-        💡 Problem Definition
+         Problem Definition
                 ↓
-        📥 Data Collection
+         Data Collection
                 ↓
-        🧹 Data Cleaning
+         Data Cleaning
                 ↓
-        🔍 Exploratory Analysis
+         Exploratory Analysis
                 ↓
-        ⚙️ Feature Engineering
+         Feature Engineering
                 ↓
-        🤖 Model Development
+         Model Development
                 ↓
-        📊 Model Evaluation
+         Model Evaluation
                 ↓
-        🎯 Optimization
+         Optimization
                 ↓
-        🚀 Deployment
+         Deployment
                 ↓
-        🔄 Monitoring & Improvement
+         Monitoring & Improvement
 
 
 
