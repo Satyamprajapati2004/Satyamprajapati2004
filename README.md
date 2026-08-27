@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%7C+AI+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Insights+%26+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
 
 ##  About Me
 
