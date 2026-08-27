@@ -193,8 +193,6 @@ I enjoy solving real-world problems through **data-driven thinking, statistical 
 - Statistical Interpretation
 
 ---
-###  GitHub Stats:
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ###  How to reach me:
 - Email: sp0412020@gmail.com
