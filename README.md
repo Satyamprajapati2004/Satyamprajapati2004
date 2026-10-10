@@ -1,46 +1,39 @@
-<!-- =====================================================================
-     ADVANCED PROFESSIONAL GITHUB PROFILE README
-     Search for "YOUR-" and replace every placeholder before publishing.
-     Delete any section you cannot back up with real work.
-     ===================================================================== -->
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00BFFF&height=220&section=header&text=Satyam%20Prajapati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=950&height=50&lines=Transforming+raw+data+into+business+intelligence;Building+AI-powered%2C+data-driven+solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Machine+Learning+%E2%80%A2+GenAI" alt="Typing animation" />
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-KAGGLE)
-[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM)
-[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://YOUR-RESUME-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-prajapati-82a51629b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Satyamprajapati2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamprajapati2004)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00BFFF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=flat-square&color=00BFFF)
-![Repos](https://img.shields.io/badge/Public%20Repos-YOUR--NUMBER-00BFFF?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Satyamprajapati2004&label=Profile%20Views&color=00BFFF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Satyamprajapati2004?style=flat-square&color=00BFFF)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=flat-square)
 
 </div>
 
 ---
 
-##  Table of Contents
+## 📑 Table of Contents
 
 | # | Section | # | Section |
 |---|---|---|---|
-| 1 | [Professional Summary](#-professional-summary) | 9 | [Machine Learning Lifecycle](#-machine-learning-lifecycle) |
-| 2 | [Profile at a Glance](#-profile-at-a-glance) | 10 | [Generative AI & LLM Engineering](#-generative-ai--llm-engineering) |
-| 3 | [What I Do](#-what-i-do) | 11 | [Code Samples](#-code-samples) |
-| 4 | [Technical Stack](#-technical-stack) | 12 | [Experience & Timeline](#-experience--timeline) |
-| 5 | [Skill Matrix](#-skill-matrix) | 13 | [Learning Roadmap](#-learning-roadmap) |
-| 6 | [Analytics Workflow](#-analytics-workflow) | 14 | [GitHub Analytics](#-github-analytics) |
-| 7 | [Featured Projects](#-featured-projects) | 15 | [Certifications & Achievements](#-certifications--achievements) |
-| 8 | [Project Case Study Template](#-project-case-study) | 16 | [Writing, FAQ & Contact](#-contact) |
+| 1 | [Professional Summary](#-professional-summary) | 8 | [Machine Learning Lifecycle](#-machine-learning-lifecycle) |
+| 2 | [Profile at a Glance](#-profile-at-a-glance) | 9 | [Generative AI & LLM Engineering](#-generative-ai--llm-engineering) |
+| 3 | [What I Do](#-what-i-do) | 10 | [Code Samples](#-code-samples) |
+| 4 | [Technical Stack](#-technical-stack) | 11 | [Experience & Education](#-experience--education) |
+| 5 | [Skill Matrix](#-skill-matrix) | 12 | [Publications](#-publications) |
+| 6 | [Analytics Workflow](#-analytics-workflow) | 13 | [Learning Roadmap](#-learning-roadmap) |
+| 7 | [Featured Projects](#-featured-projects) | 14 | [GitHub Analytics, FAQ & Contact](#-github-analytics) |
 
 ---
 
-##  Professional Summary
+## 🧭 Professional Summary
 
-I am a **Data Analyst and Data Science practitioner moving into AI Engineering**. I work across the full data lifecycle: sourcing and cleaning data, exploratory and statistical analysis, business intelligence reporting, machine learning, and packaging results into applications that other people can actually use.
+I am a **Data Analyst and Data Science practitioner moving into AI Engineering**, with one year of hands-on experience as a Data Analyst. I work across the full data lifecycle: sourcing and cleaning data, exploratory and statistical analysis, business intelligence reporting, machine learning, and packaging results into applications that other people can actually use.
 
 My approach is simple: **start from the business question, not the model.** Every dataset I touch is treated as a decision-support problem. The goal is not a chart or an accuracy number, it is a recommendation someone can act on.
 
@@ -48,36 +41,38 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 **Strengths I bring to a team**
 
--  **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
--  **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
--  **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
--  **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
--  **End-to-end delivery:** from notebook to Streamlit or Django application
+- 🔎 **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
+- 📊 **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
+- 🧪 **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
+- 🤖 **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
+- 🛠️ **End-to-end delivery:** from notebook to Streamlit or Django application
 
 ---
 
-##  Profile at a Glance
+## 🪪 Profile at a Glance
 
 | | |
 |---|---|
-|  **Target roles** | Data Analyst · Business Intelligence Analyst · Data Scientist · AI / ML Engineer |
-|  **Currently building** | Add your current project here |
-|  **Currently learning** | LLM application design, RAG evaluation, MLOps fundamentals |
-|  **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
-|  **Location** | YOUR CITY, COUNTRY (open to remote / relocation) |
-|  **Languages** | English, add others |
-|  **Best way to reach me** | Email or LinkedIn |
-|  **Fun fact** | Add something memorable |
+| 🎯 **Target roles** | Data Analyst · Data Scientist |
+| 💼 **Experience** | 1 year as a Data Analyst (Jan 2025 – Jan 2026) |
+| 🎓 **Education** | B.Tech, PTU (final year, graduating June 2027) |
+| 🔭 **Currently building** | Next portfolio project, coming soon |
+| 🌱 **Currently learning** | Generative AI: LLMs, prompt engineering, RAG |
+| 🧰 **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
+| 📍 **Location** | Noida, India (open to remote / relocation) |
+| 🗣️ **Languages** | English, Hindi |
+| 📫 **Best way to reach me** | LinkedIn |
+| ⚡ **Fun fact** | I enjoy hunting for the one number that explains why everything else changed |
 
 ---
 
-##  What I Do
+## 💼 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  Data Analytics & BI
+### 📊 Data Analytics & BI
 - Explore datasets to find patterns, trends and anomalies
 - Write SQL for extraction, joins, aggregation and cohort analysis
 - Build interactive **Power BI** dashboards with DAX measures
@@ -87,7 +82,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-###  Machine Learning & AI
+### 🤖 Machine Learning & AI
 - Build classification, regression and clustering models
 - Engineer features and evaluate with appropriate metrics
 - Experiment with deep learning (TensorFlow, Keras, PyTorch)
@@ -99,7 +94,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 <tr>
 <td width="50%" valign="top">
 
-###  Data Preparation & Quality
+### 🧹 Data Preparation & Quality
 - Cleaning, transformation and preprocessing pipelines
 - Missing-value strategy, outlier handling, validation rules
 - Data quality checks before any modelling begins
@@ -108,7 +103,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-###  Application Development
+### 🌐 Application Development
 - Interactive data apps with **Streamlit**
 - Web applications with **Django** and **Flask**
 - Front-end basics with HTML, CSS, JavaScript and React
@@ -120,7 +115,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-##  Technical Stack
+## 🛠️ Technical Stack
 
 ### Programming & Querying
 <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
@@ -168,26 +163,24 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-##  Skill Matrix
-
-> Be honest here. Recruiters probe whatever you rate highest. Adjust the levels to match your real confidence.
+## 📐 Skill Matrix
 
 | Domain | Skills | Level |
 |---|---|---|
 | **Programming** | Python, SQL | ⭐⭐⭐⭐☆ |
 | **Data Wrangling** | Pandas, NumPy, Power Query, Excel | ⭐⭐⭐⭐☆ |
 | **Visualisation / BI** | Power BI, Matplotlib, Seaborn, Plotly, Tableau | ⭐⭐⭐⭐☆ |
-| **Statistics** | Descriptive stats, probability, hypothesis testing | ⭐⭐⭐☆☆ |
-| **Machine Learning** | Scikit-Learn, XGBoost, model evaluation | ⭐⭐⭐☆☆ |
-| **Deep Learning** | TensorFlow, Keras, PyTorch | ⭐⭐☆☆☆ |
-| **Generative AI** | LLM APIs, prompt design, RAG, embeddings | ⭐⭐⭐☆☆ |
-| **App Development** | Streamlit, Django, Flask | ⭐⭐⭐☆☆ |
-| **Cloud & DevOps** | GCP, Azure, Git, Codespaces | ⭐⭐☆☆☆ |
+| **Statistics** | Descriptive stats, probability, hypothesis testing | ⭐⭐⭐⭐☆ |
+| **Machine Learning** | Scikit-Learn, XGBoost, model evaluation | ⭐⭐⭐⭐☆ |
+| **Deep Learning** | TensorFlow, Keras, PyTorch | ⭐⭐⭐⭐☆ |
+| **Generative AI** | LLM APIs, prompt design, RAG, embeddings | ⭐⭐⭐⭐☆ |
+| **App Development** | Streamlit, Django, Flask | ⭐⭐⭐⭐☆ |
+| **Cloud & DevOps** | GCP, Azure, Git, Codespaces | ⭐⭐⭐⭐☆ |
 
 ### Analytics capability breakdown
 
 <details>
-<summary><b> Data Preparation</b></summary>
+<summary><b>🧹 Data Preparation</b></summary>
 
 - Data cleaning and standardisation
 - Data preprocessing and transformation
@@ -198,7 +191,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b> Exploratory Data Analysis</b></summary>
+<summary><b>🔍 Exploratory Data Analysis</b></summary>
 
 - Univariate analysis: distributions, skewness, spread
 - Bivariate analysis: relationships between a feature and the target
@@ -210,7 +203,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b> Statistical Analysis</b></summary>
+<summary><b>📐 Statistical Analysis</b></summary>
 
 - Descriptive statistics and central tendency
 - Measures of dispersion and shape
@@ -221,7 +214,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b> Business Intelligence</b></summary>
+<summary><b>📊 Business Intelligence</b></summary>
 
 - Data modelling: star schema, relationships, granularity
 - DAX measures, time intelligence, calculated columns
@@ -232,9 +225,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-##  Analytics Workflow
-
-How I approach a typical analytics engagement:
+## 🔄 Analytics Workflow
 
 ```mermaid
 flowchart TD
@@ -261,98 +252,36 @@ flowchart TD
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-> Replace the placeholder rows with real projects. Lead with the business problem and a measurable result, not the list of tools.
+### 📊 Data Analytics & BI
 
-###  Data Analytics & BI
+| Project | Problem | Approach | Stack |
+|---|---|---|---|
+| **[Superstore Sales Analysis Dashboard](https://github.com/Satyamprajapati2004/Superstore-Sales-Analysis-Dashboard)** | Retail teams need a clear view of which products, regions and segments drive sales and profit | Cleaned the sales data, defined KPIs and built an interactive dashboard to surface trends | Data Analysis · Dashboard |
+| **[Heart Disease Analysis (Power BI)](https://github.com/Satyamprajapati2004/Heart-Disease-Analysis-Power-BI-Project)** | Health data is hard to read in raw form, so risk factors across patient groups are easy to miss | Explored patient attributes and built Power BI visuals comparing risk factors by group | Power BI · Data Analysis |
 
-| Project | Problem | Approach | Result | Stack |
-|---|---|---|---|---|
-| **[Sales Performance Dashboard](https://github.com/YOUR-USERNAME/REPO)** | Describe the business problem | Data model, KPIs, DAX measures | Measurable outcome | Power BI · SQL · Excel |
-| **[Customer Segmentation Analysis](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | RFM or clustering on transactions | Measurable outcome | Python · Pandas · Plotly |
-| **[Retail / Operations EDA](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Trend, seasonality, outlier analysis | Measurable outcome | Python · Seaborn · SQL |
+### 🤖 Machine Learning
 
-###  Machine Learning
+| Project | Problem | Approach | Stack |
+|---|---|---|---|
+| **[Customer Churn Prediction App](https://github.com/Satyamprajapati2004/customer-churn-prediction-app)** | Businesses lose revenue when customers leave without warning and need to spot at-risk customers early | Trained a classification model on customer data and wrapped it in an app for live predictions | Python · Scikit-Learn · Streamlit |
+| **[House Price Prediction](https://github.com/Satyamprajapati2004/house-price-prediction)** | Buyers and sellers need a data-backed estimate of a property's price instead of guesswork | Built a regression model from property features to predict prices | Python · Scikit-Learn · Pandas |
 
-| Project | Problem | Approach | Result | Stack |
-|---|---|---|---|---|
-| **[Churn / Risk Prediction](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Feature engineering, class imbalance handling | e.g. F1, ROC-AUC on a held-out set | Scikit-Learn · XGBoost |
-| **[Demand / Price Forecasting](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Time-series features, backtesting | e.g. MAPE vs. baseline | Python · Statsmodels |
-
-###  Generative AI & Applications
-
-| Project | Problem | Approach | Result | Stack |
-|---|---|---|---|---|
-| **[Document Q&A with RAG](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Chunking, embeddings, retrieval, grounded answers | Qualitative or evaluated outcome | LangChain · Vector DB · Streamlit |
-| **[Full-Stack Data App](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Auth, database, dashboards | Live demo link | Django · PostgreSQL |
-
-###  Pinned Repositories
+### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-2&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Satyamprajapati2004/Superstore-Sales-Analysis-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamprajapati2004&repo=Superstore-Sales-Analysis-Dashboard&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Satyamprajapati2004/customer-churn-prediction-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamprajapati2004&repo=customer-churn-prediction-app&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-3&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-4&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Satyamprajapati2004/Heart-Disease-Analysis-Power-BI-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamprajapati2004&repo=Heart-Disease-Analysis-Power-BI-Project&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Satyamprajapati2004/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamprajapati2004&repo=house-price-prediction&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
 
-##  Project Case Study
-
-Every major project in my portfolio follows the same structure, so you can scan it quickly:
-
-| Section | Contents |
-|---|---|
-| **1. Business Context** | Who the stakeholder is and what decision the analysis supports |
-| **2. Data** | Source, size, time range, known limitations |
-| **3. Method** | Cleaning steps, analysis or modelling approach, why it was chosen |
-| **4. Findings** | Top insights ranked by impact, with supporting charts |
-| **5. Evaluation** | Metrics, baselines, validation approach, error analysis |
-| **6. Recommendations** | Concrete actions and expected impact |
-| **7. Reproducibility** | `requirements.txt`, data dictionary, how to run the notebook or app |
-
-<details>
-<summary><b> Example case study (template to copy into a project README)</b></summary>
-
-```markdown
-# Project Title
-
-## Business Problem
-One paragraph: who needs this, and what decision does it inform?
-
-## Dataset
-- Source:
-- Rows / columns:
-- Period covered:
-- Known issues:
-
-## Approach
-1. Data cleaning and validation
-2. Exploratory analysis
-3. Modelling / dashboard design
-4. Evaluation and iteration
-
-## Key Findings
-- Finding 1 (with metric)
-- Finding 2 (with metric)
-- Finding 3 (with metric)
-
-## Recommendations
-- Action 1
-- Action 2
-
-## How to Run
-pip install -r requirements.txt
-streamlit run app.py
-```
-</details>
-
----
-
-##  Machine Learning Lifecycle
+## 🧪 Machine Learning Lifecycle
 
 ```mermaid
 flowchart LR
@@ -388,9 +317,9 @@ flowchart LR
 
 ---
 
-##  Generative AI & LLM Engineering
+## ✨ Generative AI & LLM Engineering
 
-A typical retrieval-augmented generation (RAG) system I build or study:
+I am currently learning Generative AI. This is the kind of retrieval-augmented generation (RAG) system I am studying and working toward building:
 
 ```mermaid
 flowchart LR
@@ -409,8 +338,6 @@ flowchart LR
     end
 ```
 
-**Areas of practice**
-
 | Area | Details |
 |---|---|
 | **Prompt engineering** | Structured prompts, few-shot examples, output formatting, guardrails |
@@ -422,10 +349,10 @@ flowchart LR
 
 ---
 
-##  Code Samples
+## 💻 Code Samples
 
 <details>
-<summary><b> Python: reusable data-quality report</b></summary>
+<summary><b>🐍 Python: reusable data-quality report</b></summary>
 
 ```python
 import pandas as pd
@@ -447,7 +374,7 @@ def data_quality_report(df: pd.DataFrame) -> pd.DataFrame:
 </details>
 
 <details>
-<summary><b> SQL: monthly revenue with growth and running total</b></summary>
+<summary><b>🗄️ SQL: monthly revenue with growth and running total</b></summary>
 
 ```sql
 WITH monthly AS (
@@ -471,7 +398,7 @@ ORDER BY month;
 </details>
 
 <details>
-<summary><b> DAX: year-over-year sales measure</b></summary>
+<summary><b>📊 DAX: year-over-year sales measure</b></summary>
 
 ```dax
 Total Sales = SUM ( Sales[Amount] )
@@ -485,7 +412,7 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 </details>
 
 <details>
-<summary><b> Python: leak-free ML pipeline with cross-validation</b></summary>
+<summary><b>🤖 Python: leak-free ML pipeline with cross-validation</b></summary>
 
 ```python
 from sklearn.compose import ColumnTransformer
@@ -517,7 +444,7 @@ print(f"F1: {scores.mean():.3f} ± {scores.std():.3f}")
 </details>
 
 <details>
-<summary><b> Python: minimal RAG retrieval sketch</b></summary>
+<summary><b>🧠 Python: minimal RAG retrieval sketch</b></summary>
 
 ```python
 import numpy as np
@@ -540,86 +467,62 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-##  Experience & Timeline
-
-> Add real entries. Use the format: **what you did → how → result.**
+## 🕰️ Experience & Education
 
 | Period | Role / Activity | Highlights |
 |---|---|---|
-| 20XX – Present | **Your current role / self-directed projects** | Key responsibilities and a quantified result |
-| 20XX – 20XX | **Internship / Freelance / Academic project** | What you built and the outcome |
-| 20XX – 20XX | **Education: Degree, Institution** | Relevant coursework, thesis, honours |
+| Jan 2025 – Jan 2026 | **Data Analyst, Critision Delon** | One year of data analysis, reporting and insight generation for business teams |
+| 2023 – June 2027 | **B.Tech, PTU (final year)** | Computer-science and data-focused coursework alongside self-driven analytics and ML projects |
 
 ---
 
-##  Learning Roadmap
+## 📄 Publications
+
+| Title | Topic | Link |
+|---|---|---|
+| **Research paper: Employee Management System** | Published research paper on an employee management system | Link coming soon |
+
+<!-- When you have the link, replace "Link coming soon" with: [Read paper](https://YOUR-PAPER-LINK) -->
+
+---
+
+## 🗺️ Learning Roadmap
 
 | Track | Status | Next milestone |
 |---|---|---|
-| Advanced SQL (window functions, optimisation) | 🟢 Active | Query tuning on large tables |
-| Statistics & experimentation (A/B testing) | 🟢 Active | Design and analyse a full experiment |
-| Machine learning (ensembles, evaluation) | 🟢 Active | Publish an end-to-end project with documentation |
-| LLM applications and RAG evaluation | 🟡 Exploring | Build and evaluate a domain-specific RAG app |
-| MLOps (experiment tracking, deployment) | 🟡 Exploring | Deploy a model behind an API |
+| Generative AI (LLMs, prompt engineering, RAG) | 🟢 Active | Build and publish a small RAG app |
+| MLOps (experiment tracking, deployment) | 🔵 Planned | Deploy a model behind an API |
 | Cloud data platforms | 🔵 Planned | Hands-on project on GCP or Azure |
 
 ---
 
-##  GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyamprajapati2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamprajapati2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Satyamprajapati2004&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamprajapati2004&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-##  Certifications & Achievements
-
-### Certifications
-| Certification | Issuer | Year | Credential |
-|---|---|---|---|
-| Add certification | Issuer | 20XX | [Verify](https://YOUR-CREDENTIAL-LINK) |
-| Add certification | Issuer | 20XX | [Verify](https://YOUR-CREDENTIAL-LINK) |
-
-### Achievements
--  Competition, hackathon or case-study result
--  Publication, talk or open-source contribution
--  Scholarship, award or recognition
-
----
-
-##  Writing & Learning in Public
-
-I document what I learn to deepen my understanding and help others.
-
-| Topic | Link |
-|---|---|
-| Add article title (e.g. "A practical guide to handling missing data") | [Read](https://YOUR-ARTICLE-LINK) |
-| Add article title (e.g. "RAG from scratch: lessons learned") | [Read](https://YOUR-ARTICLE-LINK) |
-
----
-
-##  FAQ
+## ❓ FAQ
 
 <details>
 <summary><b>What kind of roles are you looking for?</b></summary>
 
-Data Analyst, BI Analyst, Data Scientist and entry-level AI / ML Engineer roles, ideally where analysis directly informs decisions.
+Data Analyst and Data Scientist roles, ideally where analysis directly informs business decisions.
 </details>
 
 <details>
 <summary><b>Are you open to freelance or collaboration?</b></summary>
 
-Yes. Dashboards, exploratory analysis, ML prototypes and Streamlit apps are the kinds of projects I take on. Reach out by email with a short description.
+Yes. Dashboards, exploratory analysis, ML prototypes and Streamlit apps are the kinds of projects I take on. Reach out on LinkedIn with a short description.
 </details>
 
 <details>
@@ -631,28 +534,26 @@ Define the business question and KPIs, audit data quality, explore before modell
 <details>
 <summary><b>What are you working on improving?</b></summary>
 
-Production-grade ML (MLOps), rigorous experimentation, and evaluating LLM applications beyond demos.
+Generative AI and LLM applications, and production-grade ML (MLOps).
 </details>
 
 ---
 
-##  Contact
+## 🤝 Contact
 
-I am open to **data analytics, data science and AI engineering opportunities**, internships, freelance work and collaborations.
+I am open to **data analyst and data scientist opportunities**, internships, freelance work and collaborations.
 
 | Channel | Details |
 |---|---|
-|  **Email** | YOUR-EMAIL@example.com |
-|  **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN) |
-|  **Portfolio** | [YOUR-PORTFOLIO.com](https://YOUR-PORTFOLIO.com) |
-|  **Kaggle** | [kaggle.com/YOUR-KAGGLE](https://www.kaggle.com/YOUR-KAGGLE) |
-|  **Resume** | [Download PDF](https://YOUR-RESUME-LINK) |
+| 💼 **LinkedIn** | [linkedin.com/in/satyam-prajapati-82a51629b](https://www.linkedin.com/in/satyam-prajapati-82a51629b/) |
+| 🐙 **GitHub** | [github.com/Satyamprajapati2004](https://github.com/Satyamprajapati2004) |
+| 📍 **Location** | Noida, India |
 
 <div align="center">
 
 <br/>
 
-**Thanks for visiting. If something here is useful, a  on a repository is always appreciated.**
+**Thanks for visiting. If something here is useful, a ⭐ on a repository is always appreciated.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
