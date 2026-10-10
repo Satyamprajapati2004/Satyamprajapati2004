@@ -157,7 +157,6 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ### Web, Cloud & Tooling
 <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,gcp,azure,git,github,vscode" />
-g.shields.io/badge/Codespaces-24292F?style=flat-square&logo=github&logoColor=white)
 
 ---
 
