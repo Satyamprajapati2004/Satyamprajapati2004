@@ -492,7 +492,7 @@ def build_prompt(question, retrieved_chunks):
 
 <img src="https://streak-stats.demolab.com?user=Satyamprajapati2004&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamprajapati2004&theme=tokyo-night&hide_border=true" width="100%" />
+
 
 </div>
 
