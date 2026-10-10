@@ -157,12 +157,11 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ### Web, Cloud & Tooling
 <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,gcp,azure,git,github,vscode" />
-&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Codespaces](https://img.shields.io/badge/Codespaces-24292F?style=flat-square&logo=github&logoColor=white)
+g.shields.io/badge/Codespaces-24292F?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📐 Skill Matrix
+##  Skill Matrix
 
 | Domain | Skills | Level |
 |---|---|---|
@@ -179,7 +178,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 ### Analytics capability breakdown
 
 <details>
-<summary><b>🧹 Data Preparation</b></summary>
+<summary><b> Data Preparation</b></summary>
 
 - Data cleaning and standardisation
 - Data preprocessing and transformation
@@ -190,7 +189,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>🔍 Exploratory Data Analysis</b></summary>
+<summary><b> Exploratory Data Analysis</b></summary>
 
 - Univariate analysis: distributions, skewness, spread
 - Bivariate analysis: relationships between a feature and the target
@@ -202,7 +201,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>📐 Statistical Analysis</b></summary>
+<summary><b> Statistical Analysis</b></summary>
 
 - Descriptive statistics and central tendency
 - Measures of dispersion and shape
@@ -213,7 +212,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>📊 Business Intelligence</b></summary>
+<summary><b> Business Intelligence</b></summary>
 
 - Data modelling: star schema, relationships, granularity
 - DAX measures, time intelligence, calculated columns
@@ -224,7 +223,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-## 🔄 Analytics Workflow
+##  Analytics Workflow
 
 ```mermaid
 flowchart TD
@@ -251,23 +250,23 @@ flowchart TD
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📊 Data Analytics & BI
+###  Data Analytics & BI
 
 | Project | Problem | Approach | Stack |
 |---|---|---|---|
 | **[Superstore Sales Analysis Dashboard](https://github.com/Satyamprajapati2004/Superstore-Sales-Analysis-Dashboard)** | Retail teams need a clear view of which products, regions and segments drive sales and profit | Cleaned the sales data, defined KPIs and built an interactive dashboard to surface trends | Data Analysis · Dashboard |
 | **[Heart Disease Analysis (Power BI)](https://github.com/Satyamprajapati2004/Heart-Disease-Analysis-Power-BI-Project)** | Health data is hard to read in raw form, so risk factors across patient groups are easy to miss | Explored patient attributes and built Power BI visuals comparing risk factors by group | Power BI · Data Analysis |
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 | Project | Problem | Approach | Stack |
 |---|---|---|---|
 | **[Customer Churn Prediction App](https://github.com/Satyamprajapati2004/customer-churn-prediction-app)** | Businesses lose revenue when customers leave without warning and need to spot at-risk customers early | Trained a classification model on customer data and wrapped it in an app for live predictions | Python · Scikit-Learn · Streamlit |
 | **[House Price Prediction](https://github.com/Satyamprajapati2004/house-price-prediction)** | Buyers and sellers need a data-backed estimate of a property's price instead of guesswork | Built a regression model from property features to predict prices | Python · Scikit-Learn · Pandas |
 
-### 📌 Pinned Repositories
+###  Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/Satyamprajapati2004/Superstore-Sales-Analysis-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamprajapati2004&repo=Superstore-Sales-Analysis-Dashboard&theme=tokyonight&hide_border=true" /></a>
@@ -280,7 +279,7 @@ flowchart TD
 
 ---
 
-## 🧪 Machine Learning Lifecycle
+##  Machine Learning Lifecycle
 
 ```mermaid
 flowchart LR
@@ -316,7 +315,7 @@ flowchart LR
 
 ---
 
-## ✨ Generative AI & LLM Engineering
+##  Generative AI & LLM Engineering
 
 I am currently learning Generative AI. This is the kind of retrieval-augmented generation (RAG) system I am studying and working toward building:
 
@@ -348,10 +347,10 @@ flowchart LR
 
 ---
 
-## 💻 Code Samples
+##  Code Samples
 
 <details>
-<summary><b>🐍 Python: reusable data-quality report</b></summary>
+<summary><b> Python: reusable data-quality report</b></summary>
 
 ```python
 import pandas as pd
@@ -373,7 +372,7 @@ def data_quality_report(df: pd.DataFrame) -> pd.DataFrame:
 </details>
 
 <details>
-<summary><b>🗄️ SQL: monthly revenue with growth and running total</b></summary>
+<summary><b> SQL: monthly revenue with growth and running total</b></summary>
 
 ```sql
 WITH monthly AS (
@@ -397,7 +396,7 @@ ORDER BY month;
 </details>
 
 <details>
-<summary><b>📊 DAX: year-over-year sales measure</b></summary>
+<summary><b> DAX: year-over-year sales measure</b></summary>
 
 ```dax
 Total Sales = SUM ( Sales[Amount] )
@@ -411,7 +410,7 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 </details>
 
 <details>
-<summary><b>🤖 Python: leak-free ML pipeline with cross-validation</b></summary>
+<summary><b> Python: leak-free ML pipeline with cross-validation</b></summary>
 
 ```python
 from sklearn.compose import ColumnTransformer
@@ -443,7 +442,7 @@ print(f"F1: {scores.mean():.3f} ± {scores.std():.3f}")
 </details>
 
 <details>
-<summary><b>🧠 Python: minimal RAG retrieval sketch</b></summary>
+<summary><b> Python: minimal RAG retrieval sketch</b></summary>
 
 ```python
 import numpy as np
@@ -466,7 +465,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 🕰️ Experience & Education
+##  Experience & Education
 
 | Period | Role / Activity | Highlights |
 |---|---|---|
@@ -475,17 +474,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 📄 Publications
-
-| Title | Topic | Link |
-|---|---|---|
-| **Research paper: Employee Management System** | Published research paper on an employee management system | Link coming soon |
-
-<!-- When you have the link, replace "Link coming soon" with: [Read paper](https://YOUR-PAPER-LINK) -->
-
----
-
-## 🗺️ Learning Roadmap
+##  Learning Roadmap
 
 | Track | Status | Next milestone |
 |---|---|---|
@@ -495,7 +484,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -510,7 +499,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 <details>
 <summary><b>What kind of roles are you looking for?</b></summary>
@@ -538,15 +527,15 @@ Generative AI and LLM applications, and production-grade ML (MLOps).
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 I am open to **data analyst and data scientist opportunities**, internships, freelance work and collaborations.
 
 | Channel | Details |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/satyam-prajapati-82a51629b](https://www.linkedin.com/in/satyam-prajapati-82a51629b/) |
-| 🐙 **GitHub** | [github.com/Satyamprajapati2004](https://github.com/Satyamprajapati2004) |
-| 📍 **Location** | Noida, India |
+|  **LinkedIn** | [linkedin.com/in/satyam-prajapati-82a51629b](https://www.linkedin.com/in/satyam-prajapati-82a51629b/) |
+|  **GitHub** | [github.com/Satyamprajapati2004](https://github.com/Satyamprajapati2004) |
+|  **Location** | Noida, India |
 
 <div align="center">
 
