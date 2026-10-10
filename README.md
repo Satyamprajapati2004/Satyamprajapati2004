@@ -28,7 +28,7 @@
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 | # | Section | # | Section |
 |---|---|---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## 🧭 Professional Summary
+##  Professional Summary
 
 I am a **Data Analyst and Data Science practitioner moving into AI Engineering**. I work across the full data lifecycle: sourcing and cleaning data, exploratory and statistical analysis, business intelligence reporting, machine learning, and packaging results into applications that other people can actually use.
 
@@ -53,36 +53,36 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 **Strengths I bring to a team**
 
-- 🔎 **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
-- 📊 **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
-- 🧪 **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
-- 🤖 **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
-- 🛠️ **End-to-end delivery:** from notebook to Streamlit or Django application
+-  **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
+-  **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
+-  **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
+-  **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
+-  **End-to-end delivery:** from notebook to Streamlit or Django application
 
 ---
 
-## 🪪 Profile at a Glance
+##  Profile at a Glance
 
 | | |
 |---|---|
-| 🎯 **Target roles** | Data Analyst · Business Intelligence Analyst · Data Scientist · AI / ML Engineer |
-| 🔭 **Currently building** | Add your current project here |
-| 🌱 **Currently learning** | LLM application design, RAG evaluation, MLOps fundamentals |
-| 🧰 **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
-| 📍 **Location** | YOUR CITY, COUNTRY (open to remote / relocation) |
-| 🗣️ **Languages** | English, add others |
-| 📫 **Best way to reach me** | Email or LinkedIn |
-| ⚡ **Fun fact** | Add something memorable |
+|  **Target roles** | Data Analyst · Business Intelligence Analyst · Data Scientist · AI / ML Engineer |
+|  **Currently building** | Add your current project here |
+|  **Currently learning** | LLM application design, RAG evaluation, MLOps fundamentals |
+|  **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
+|  **Location** | YOUR CITY, COUNTRY (open to remote / relocation) |
+|  **Languages** | English, add others |
+|  **Best way to reach me** | Email or LinkedIn |
+|  **Fun fact** | Add something memorable |
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data Analytics & BI
+###  Data Analytics & BI
 - Explore datasets to find patterns, trends and anomalies
 - Write SQL for extraction, joins, aggregation and cohort analysis
 - Build interactive **Power BI** dashboards with DAX measures
@@ -92,7 +92,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 - Build classification, regression and clustering models
 - Engineer features and evaluate with appropriate metrics
 - Experiment with deep learning (TensorFlow, Keras, PyTorch)
@@ -104,7 +104,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 Data Preparation & Quality
+###  Data Preparation & Quality
 - Cleaning, transformation and preprocessing pipelines
 - Missing-value strategy, outlier handling, validation rules
 - Data quality checks before any modelling begins
@@ -113,7 +113,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Application Development
+###  Application Development
 - Interactive data apps with **Streamlit**
 - Web applications with **Django** and **Flask**
 - Front-end basics with HTML, CSS, JavaScript and React
@@ -125,7 +125,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Programming & Querying
 <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
@@ -173,7 +173,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-## 📐 Skill Matrix
+##  Skill Matrix
 
 > Be honest here. Recruiters probe whatever you rate highest. Adjust the levels to match your real confidence.
 
@@ -192,7 +192,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 ### Analytics capability breakdown
 
 <details>
-<summary><b>🧹 Data Preparation</b></summary>
+<summary><b> Data Preparation</b></summary>
 
 - Data cleaning and standardisation
 - Data preprocessing and transformation
@@ -203,7 +203,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>🔍 Exploratory Data Analysis</b></summary>
+<summary><b> Exploratory Data Analysis</b></summary>
 
 - Univariate analysis: distributions, skewness, spread
 - Bivariate analysis: relationships between a feature and the target
@@ -215,7 +215,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>📐 Statistical Analysis</b></summary>
+<summary><b> Statistical Analysis</b></summary>
 
 - Descriptive statistics and central tendency
 - Measures of dispersion and shape
@@ -226,7 +226,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </details>
 
 <details>
-<summary><b>📊 Business Intelligence</b></summary>
+<summary><b> Business Intelligence</b></summary>
 
 - Data modelling: star schema, relationships, granularity
 - DAX measures, time intelligence, calculated columns
@@ -237,7 +237,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-## 🔄 Analytics Workflow
+##  Analytics Workflow
 
 How I approach a typical analytics engagement:
 
@@ -266,11 +266,11 @@ flowchart TD
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 > Replace the placeholder rows with real projects. Lead with the business problem and a measurable result, not the list of tools.
 
-### 📊 Data Analytics & BI
+###  Data Analytics & BI
 
 | Project | Problem | Approach | Result | Stack |
 |---|---|---|---|---|
@@ -278,21 +278,21 @@ flowchart TD
 | **[Customer Segmentation Analysis](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | RFM or clustering on transactions | Measurable outcome | Python · Pandas · Plotly |
 | **[Retail / Operations EDA](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Trend, seasonality, outlier analysis | Measurable outcome | Python · Seaborn · SQL |
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 | Project | Problem | Approach | Result | Stack |
 |---|---|---|---|---|
 | **[Churn / Risk Prediction](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Feature engineering, class imbalance handling | e.g. F1, ROC-AUC on a held-out set | Scikit-Learn · XGBoost |
 | **[Demand / Price Forecasting](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Time-series features, backtesting | e.g. MAPE vs. baseline | Python · Statsmodels |
 
-### 🧠 Generative AI & Applications
+###  Generative AI & Applications
 
 | Project | Problem | Approach | Result | Stack |
 |---|---|---|---|---|
 | **[Document Q&A with RAG](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Chunking, embeddings, retrieval, grounded answers | Qualitative or evaluated outcome | LangChain · Vector DB · Streamlit |
 | **[Full-Stack Data App](https://github.com/YOUR-USERNAME/REPO)** | Describe the problem | Auth, database, dashboards | Live demo link | Django · PostgreSQL |
 
-### 📌 Pinned Repositories
+###  Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true" /></a>
@@ -305,7 +305,7 @@ flowchart TD
 
 ---
 
-## 🧩 Project Case Study
+##  Project Case Study
 
 Every major project in my portfolio follows the same structure, so you can scan it quickly:
 
@@ -320,7 +320,7 @@ Every major project in my portfolio follows the same structure, so you can scan 
 | **7. Reproducibility** | `requirements.txt`, data dictionary, how to run the notebook or app |
 
 <details>
-<summary><b>📝 Example case study (template to copy into a project README)</b></summary>
+<summary><b> Example case study (template to copy into a project README)</b></summary>
 
 ```markdown
 # Project Title
@@ -357,7 +357,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Machine Learning Lifecycle
+##  Machine Learning Lifecycle
 
 ```mermaid
 flowchart LR
@@ -393,7 +393,7 @@ flowchart LR
 
 ---
 
-## ✨ Generative AI & LLM Engineering
+##  Generative AI & LLM Engineering
 
 A typical retrieval-augmented generation (RAG) system I build or study:
 
@@ -427,10 +427,10 @@ flowchart LR
 
 ---
 
-## 💻 Code Samples
+##  Code Samples
 
 <details>
-<summary><b>🐍 Python: reusable data-quality report</b></summary>
+<summary><b> Python: reusable data-quality report</b></summary>
 
 ```python
 import pandas as pd
@@ -452,7 +452,7 @@ def data_quality_report(df: pd.DataFrame) -> pd.DataFrame:
 </details>
 
 <details>
-<summary><b>🗄️ SQL: monthly revenue with growth and running total</b></summary>
+<summary><b> SQL: monthly revenue with growth and running total</b></summary>
 
 ```sql
 WITH monthly AS (
@@ -476,7 +476,7 @@ ORDER BY month;
 </details>
 
 <details>
-<summary><b>📊 DAX: year-over-year sales measure</b></summary>
+<summary><b> DAX: year-over-year sales measure</b></summary>
 
 ```dax
 Total Sales = SUM ( Sales[Amount] )
@@ -490,7 +490,7 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 </details>
 
 <details>
-<summary><b>🤖 Python: leak-free ML pipeline with cross-validation</b></summary>
+<summary><b> Python: leak-free ML pipeline with cross-validation</b></summary>
 
 ```python
 from sklearn.compose import ColumnTransformer
@@ -522,7 +522,7 @@ print(f"F1: {scores.mean():.3f} ± {scores.std():.3f}")
 </details>
 
 <details>
-<summary><b>🧠 Python: minimal RAG retrieval sketch</b></summary>
+<summary><b> Python: minimal RAG retrieval sketch</b></summary>
 
 ```python
 import numpy as np
@@ -545,7 +545,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 🕰️ Experience & Timeline
+##  Experience & Timeline
 
 > Add real entries. Use the format: **what you did → how → result.**
 
@@ -557,7 +557,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 🗺️ Learning Roadmap
+##  Learning Roadmap
 
 | Track | Status | Next milestone |
 |---|---|---|
@@ -570,7 +570,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -587,7 +587,7 @@ def build_prompt(question, retrieved_chunks):
 
 ---
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 ### Certifications
 | Certification | Issuer | Year | Credential |
@@ -596,13 +596,13 @@ def build_prompt(question, retrieved_chunks):
 | Add certification | Issuer | 20XX | [Verify](https://YOUR-CREDENTIAL-LINK) |
 
 ### Achievements
-- 🥇 Competition, hackathon or case-study result
-- 📜 Publication, talk or open-source contribution
-- 🎓 Scholarship, award or recognition
+-  Competition, hackathon or case-study result
+-  Publication, talk or open-source contribution
+-  Scholarship, award or recognition
 
 ---
 
-## ✍️ Writing & Learning in Public
+##  Writing & Learning in Public
 
 I document what I learn to deepen my understanding and help others.
 
@@ -613,7 +613,7 @@ I document what I learn to deepen my understanding and help others.
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 <details>
 <summary><b>What kind of roles are you looking for?</b></summary>
@@ -641,23 +641,23 @@ Production-grade ML (MLOps), rigorous experimentation, and evaluating LLM applic
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 I am open to **data analytics, data science and AI engineering opportunities**, internships, freelance work and collaborations.
 
 | Channel | Details |
 |---|---|
-| 📫 **Email** | YOUR-EMAIL@example.com |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN) |
-| 🌐 **Portfolio** | [YOUR-PORTFOLIO.com](https://YOUR-PORTFOLIO.com) |
-| 📊 **Kaggle** | [kaggle.com/YOUR-KAGGLE](https://www.kaggle.com/YOUR-KAGGLE) |
-| 📄 **Resume** | [Download PDF](https://YOUR-RESUME-LINK) |
+|  **Email** | YOUR-EMAIL@example.com |
+|  **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN) |
+|  **Portfolio** | [YOUR-PORTFOLIO.com](https://YOUR-PORTFOLIO.com) |
+|  **Kaggle** | [kaggle.com/YOUR-KAGGLE](https://www.kaggle.com/YOUR-KAGGLE) |
+|  **Resume** | [Download PDF](https://YOUR-RESUME-LINK) |
 
 <div align="center">
 
 <br/>
 
-**Thanks for visiting. If something here is useful, a ⭐ on a repository is always appreciated.**
+**Thanks for visiting. If something here is useful, a  on a repository is always appreciated.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
