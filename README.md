@@ -1,228 +1,180 @@
-#  Hi, I'm **SATYAM PRAJAPATI**
+<!-- ============ HEADER ============ -->
+<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1050&height=130&lines=%3E+Data+Analyst+%7C+Data+Scientist;%3E+Business+Intelligence+%7C+AI+Engineer;%3E+Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;%3E+Transforming+Data+into+Intelligence;%3E+Building+AI-Powered+%26+Data-Driven+Solutions"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+%26+Machine+Learning;AI+Engineer+in+the+making;Turning+raw+data+into+business+decisions" alt="Typing animation" />
 </p>
 
-##  About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
-I’m a passionate **Data Analyst, Data Science enthusiast, and aspiring AI Engineer** who enjoys transforming raw data into meaningful insights, intelligent solutions, and business value.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00BFFF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=flat-square&color=00BFFF" />
+</p>
 
-I work across the complete data lifecycle — from **data collection and cleaning to analysis, visualization, machine learning, and application development**.
+---
 
-My primary areas of interest include:
+## 🧭 About Me
 
--  Data Analytics
--  Business Intelligence
--  Machine Learning
--  Artificial Intelligence
--  Generative AI
--  Python Development
--  SQL & Database Analytics
--  Power BI & Data Visualization
-
-I enjoy solving real-world problems through **data-driven thinking, statistical analysis, machine learning, visualization, and intelligent automation**.
-
-###  My Focus
+I'm a **Data Analyst and Data Science enthusiast** moving toward **AI Engineering**. I work across the full data lifecycle: collecting and cleaning data, analysing it, building dashboards and ML models, and shipping the result as a usable application.
 
 > **Raw Data → Clean Data → Insights → Intelligence → Business Impact**
 
----
-
-#  What I Do
-
--  Analyze datasets to discover patterns, trends, and actionable insights
--  Use **Python** for data analysis, automation, preprocessing, and experimentation
--  Write **SQL queries** for extraction, transformation, aggregation, and business analysis
--  Build interactive **Power BI dashboards** and analytical reports
--  Use **Microsoft Excel** for data cleaning, analysis, reporting, and visualization
--  Perform **Exploratory Data Analysis (EDA)**
--  Clean, transform, and preprocess raw datasets
--  Apply statistical techniques for data interpretation
--  Develop and experiment with **Machine Learning models**
--  Explore **Artificial Intelligence and AI Engineering**
--  Explore **Generative AI and Large Language Models**
--  Build interactive applications using **Streamlit**
--  Develop web applications using **Django**
--  Communicate complex analytical results through effective visualizations
--  Convert data-driven findings into practical business insights
+| | |
+|---|---|
+| 🔭 **Currently building** | Add your current project here |
+| 🌱 **Currently learning** | LLM applications, RAG pipelines, MLOps basics |
+| 🎯 **Looking for** | Data Analyst / Data Scientist / AI roles and collaborations |
+| 💬 **Ask me about** | Python, SQL, Power BI, EDA, ML, GenAI |
+| ⚡ **Fun fact** | Add one that makes you memorable |
 
 ---
 
-#  Technical Tools & Technologies
+## 🛠️ Tech Stack
 
-##  Programming Languages
+**Languages & Querying**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css" /> &nbsp; ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Data Analysis & Visualisation**
 
-##  Data Analysis & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+**Machine Learning & AI**
 
----
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-##  Data Visualization & Business Intelligence
+**Databases, Apps & Cloud**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,django,flask,react,nodejs,gcp,azure,git,github,vscode" />
 
----
-
-##  Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-##  Artificial Intelligence & Generative AI
+## 🔄 How I Work
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### AI Areas
-
-- Generative AI
-- Large Language Models
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Vector Search
-- AI APIs
-- AI Application Development
-- Intelligent Automation
-- Model Integration
+```mermaid
+flowchart LR
+    A[Problem Definition] --> B[Data Collection]
+    B --> C[Cleaning & Validation]
+    C --> D[EDA]
+    D --> E[Feature Engineering]
+    E --> F[Modelling]
+    F --> G[Evaluation]
+    G --> H[Deployment]
+    H --> I[Monitoring]
+    I -.feedback.-> A
+```
 
 ---
 
-##  Databases & Data Engineering
+## 🚀 Featured Projects
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+> Replace each row with a real project. Lead with the business problem and a measurable result.
 
----
-
-##  Web & Application Development
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+| Project | Problem & Approach | Impact | Stack |
+|---|---|---|---|
+| 📊 **[Project Name](https://github.com/YOUR-USERNAME/REPO)** | One line: the problem, data used, method | e.g. "Cut reporting time by 60%" | Python · SQL · Power BI |
+| 🤖 **[Project Name](https://github.com/YOUR-USERNAME/REPO)** | One line: model, dataset, evaluation metric | e.g. "F1 0.91 on held-out test set" | Scikit-Learn · XGBoost |
+| 🧠 **[Project Name](https://github.com/YOUR-USERNAME/REPO)** | One line: RAG / LLM app, what it answers | e.g. "Answers from 500+ docs with citations" | LangChain · Streamlit · Vector DB |
+| 🌐 **[Project Name](https://github.com/YOUR-USERNAME/REPO)** | One line: full-stack data app | e.g. "Live demo with 100+ users" | Django · PostgreSQL |
 
 ---
 
-##  Cloud & Deployment
+## 📈 Core Competencies
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<details>
+<summary><b>🧹 Data Preparation</b></summary>
 
----
+Data cleaning · preprocessing · transformation · missing-value handling · validation · quality checks · feature preparation
+</details>
 
-##  Development Tools
+<details>
+<summary><b>🔍 Exploratory Data Analysis</b></summary>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-24292F?style=for-the-badge&logo=github&logoColor=white)
+Univariate, bivariate and multivariate analysis · trend and pattern detection · outlier detection · correlation and distribution analysis
+</details>
 
----
+<details>
+<summary><b>📐 Statistics</b></summary>
 
-#  Data Analytics Skills
+Descriptive statistics · probability · central tendency and dispersion · correlation · hypothesis testing · interpretation of results
+</details>
 
-###  Data Preparation
+<details>
+<summary><b>🤖 Machine Learning</b></summary>
 
-- Data Cleaning
-- Data Preprocessing
-- Data Transformation
-- Missing Value Handling
-- Data Validation
-- Feature Preparation
-- Data Quality Checks
+Supervised and unsupervised learning · model evaluation and tuning · feature engineering · deployment with Streamlit / Django
+</details>
 
-###  Exploratory Data Analysis
+<details>
+<summary><b>✨ Generative AI</b></summary>
 
-- Univariate Analysis
-- Bivariate Analysis
-- Multivariate Analysis
-- Trend Analysis
-- Pattern Detection
-- Outlier Detection
-- Correlation Analysis
-- Distribution Analysis
+Prompt engineering · LLM APIs · embeddings · vector search · Retrieval-Augmented Generation (RAG) · AI application development · intelligent automation
+</details>
 
-###  Statistical Analysis
+<details>
+<summary><b>📊 Business Intelligence</b></summary>
 
-- Descriptive Statistics
-- Probability Fundamentals
-- Central Tendency
-- Measures of Dispersion
-- Correlation
-- Hypothesis Testing Fundamentals
-- Statistical Interpretation
+Power BI dashboards · Power Query · DAX · Excel reporting · SQL aggregation and business analysis · KPI storytelling
+</details>
 
 ---
 
-###  How to reach me:
-- Email: sp0412020@gmail.com
--  LinkedIn: https://www.linkedin.com/in/satyam-prajapati-82a51629b/
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-#  Data Science & Machine Learning
+## 🏆 Certifications & Achievements
 
-I’m continuously developing practical knowledge across the complete Machine Learning lifecycle:
+- 🎓 Add certification (issuer, year)
+- 🥇 Add competition / hackathon result
+- 📝 Add article, blog or talk
 
-```text
-         Problem Definition
-                ↓
-         Data Collection
-                ↓
-         Data Cleaning
-                ↓
-         Exploratory Analysis
-                ↓
-         Feature Engineering
-                ↓
-         Model Development
-                ↓
-         Model Evaluation
-                ↓
-         Optimization
-                ↓
-         Deployment
-                ↓
-         Monitoring & Improvement
+---
 
+## 🤝 Let's Connect
 
+I'm open to **data analytics, data science and AI engineering opportunities**, internships and collaborations.
 
+📫 **Email:** YOUR-EMAIL@example.com  
+💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+🌐 **Portfolio:** [YOUR-PORTFOLIO.com](https://YOUR-PORTFOLIO.com)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1C3C3C&height=100&section=footer" />
+</p>
 
- 
-
-
+<p align="center"><i>⭐ If something here is useful, a star on a repo is always appreciated.</i></p>
