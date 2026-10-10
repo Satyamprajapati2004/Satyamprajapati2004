@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-prajapati-82a51629b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Satyamprajapati2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamprajapati2004)
-
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp0412020@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Satyamprajapati2004&label=Profile%20Views&color=00BFFF&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Satyamprajapati2004?style=flat-square&color=00BFFF)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=flat-square)
