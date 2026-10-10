@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00BFFF&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00BFFF&height=220&section=header&text=Satyam Prajapati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=950&height=50&lines=Transforming+raw+data+into+business+intelligence;Building+AI-powered%2C+data-driven+solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Machine+Learning+%E2%80%A2+GenAI" alt="Typing animation" />
 
