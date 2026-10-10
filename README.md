@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 | # | Section | # | Section |
 |---|---|---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧭 Professional Summary
+##  Professional Summary
 
 I am a **Data Analyst and Data Science practitioner moving into AI Engineering**, with one year of hands-on experience as a Data Analyst. I work across the full data lifecycle: sourcing and cleaning data, exploratory and statistical analysis, business intelligence reporting, machine learning, and packaging results into applications that other people can actually use.
 
@@ -41,38 +41,38 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 **Strengths I bring to a team**
 
-- 🔎 **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
-- 📊 **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
-- 🧪 **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
-- 🤖 **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
-- 🛠️ **End-to-end delivery:** from notebook to Streamlit or Django application
+-  **Analytical rigour:** hypothesis-driven analysis, validation of data quality before conclusions
+-  **Storytelling with data:** dashboards and reports written for decision-makers, not just analysts
+-  **Practical ML:** baseline-first modelling, honest evaluation, clear documentation
+-  **GenAI fluency:** LLM APIs, prompt design, embeddings and retrieval-augmented systems
+-  **End-to-end delivery:** from notebook to Streamlit or Django application
 
 ---
 
-## 🪪 Profile at a Glance
+##  Profile at a Glance
 
 | | |
 |---|---|
-| 🎯 **Target roles** | Data Analyst · Data Scientist |
-| 💼 **Experience** | 1 year as a Data Analyst (Jan 2025 – Jan 2026) |
-| 🎓 **Education** | B.Tech, PTU (final year, graduating June 2027) |
-| 🔭 **Currently building** | Next portfolio project, coming soon |
-| 🌱 **Currently learning** | Generative AI: LLMs, prompt engineering, RAG |
-| 🧰 **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
-| 📍 **Location** | Noida, India (open to remote / relocation) |
-| 🗣️ **Languages** | English, Hindi |
-| 📫 **Best way to reach me** | LinkedIn |
-| ⚡ **Fun fact** | I enjoy hunting for the one number that explains why everything else changed |
+|  **Target roles** | Data Analyst · Data Scientist |
+|  **Experience** | 1 year as a Data Analyst (Jan 2025 – Jan 2026) |
+|  **Education** | B.Tech, PTU (final year, graduating June 2027) |
+|  **Currently building** | Next portfolio project, coming soon |
+|  **Currently learning** | Generative AI: LLMs, prompt engineering, RAG |
+|  **Primary tools** | Python, SQL, Power BI, Excel, Scikit-Learn, Streamlit |
+|  **Location** | Noida, India (open to remote / relocation) |
+|  **Languages** | English, Hindi |
+|  **Best way to reach me** | LinkedIn |
+|  **Fun fact** | I enjoy hunting for the one number that explains why everything else changed |
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data Analytics & BI
+###  Data Analytics & BI
 - Explore datasets to find patterns, trends and anomalies
 - Write SQL for extraction, joins, aggregation and cohort analysis
 - Build interactive **Power BI** dashboards with DAX measures
@@ -82,7 +82,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 - Build classification, regression and clustering models
 - Engineer features and evaluate with appropriate metrics
 - Experiment with deep learning (TensorFlow, Keras, PyTorch)
@@ -94,7 +94,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 Data Preparation & Quality
+###  Data Preparation & Quality
 - Cleaning, transformation and preprocessing pipelines
 - Missing-value strategy, outlier handling, validation rules
 - Data quality checks before any modelling begins
@@ -103,7 +103,7 @@ My approach is simple: **start from the business question, not the model.** Ever
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Application Development
+###  Application Development
 - Interactive data apps with **Streamlit**
 - Web applications with **Django** and **Flask**
 - Front-end basics with HTML, CSS, JavaScript and React
@@ -115,11 +115,10 @@ My approach is simple: **start from the business question, not the model.** Ever
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Programming & Querying
 <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-&nbsp;![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Data Analysis & Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
